@@ -1,0 +1,16 @@
+PODS:
+  - BRPTInteractiveView (0.1.0)
+
+DEPENDENCIES:
+  - BRPTInteractiveView (from `../`)
+
+EXTERNAL SOURCES:
+  BRPTInteractiveView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BRPTInteractiveView: 76e8b852fa06c52f4ee9837ee93e0c2b2ac6eb92
+
+PODFILE CHECKSUM: 132e00dfba9ab9506697e486ea9cff1e775bcead
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module BRPTInteractiveView {
+  umbrella header "BRPTInteractiveView-umbrella.h"
+
+  export *
+  module * { export * }
+}

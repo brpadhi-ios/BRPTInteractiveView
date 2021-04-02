@@ -1,0 +1,22 @@
+{
+  "name": "BRPTInteractiveView",
+  "version": "0.1.0",
+  "summary": "A short description of BRPTInteractiveView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bidya.blooms/BRPTInteractiveView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bidya.blooms": "bidyaranjan@bloomsmobility.com"
+  },
+  "source": {
+    "git": "https://github.com/Bidya.blooms/BRPTInteractiveView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BRPTInteractiveView/Classes/**/*"
+}
